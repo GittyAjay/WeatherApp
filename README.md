@@ -1,4 +1,4 @@
-#Simple Weather App 
+## Simple Weather App 
 
 ![demo](demo.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
